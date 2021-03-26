@@ -31,7 +31,5 @@ public class Main {
         s.quickSort(arr2, 0, (arr2.length - 1));//quickSort(array,first index,last index)
         System.out.println("Quick Sort: " + Arrays.toString(arr2));
         
-        System.out.println("Denememe");
-        System.out.println("Denememe");
     }
 }
