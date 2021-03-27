@@ -32,5 +32,6 @@ public class Main {
         System.out.println("Quick Sort: " + Arrays.toString(arr2));
         
         System.out.println("yeni dal");
+        System.out.println("Branch2");
     }
 }
